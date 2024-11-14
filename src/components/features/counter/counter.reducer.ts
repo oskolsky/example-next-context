@@ -8,7 +8,7 @@ export const initialState: State = {
     count: 0,
 }
 
-export function quartermasterReducer(state: State, action: Action): State {
+export function counterReducer(state: State, action: Action): State {
     switch (action.type) {
         case 'INCREMENT':
             return { ...state, count: state.count + 1 }
