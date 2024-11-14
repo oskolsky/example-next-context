@@ -2,7 +2,7 @@
 
 This is a simple project to demonstrate how to create a Next.js app with context for state management.
 
-[Link to the article](https://medium.com/@julianopacheco/how-to-create-a-next-js-app-with-context-for-state-management-7b3e7e4f3b3d)
+[Link to the article](https://medium.com/@oskolsky/how-to-create-a-next-js-app-with-context-for-state-management-46304764654e)
 
 ## Getting Started
 
