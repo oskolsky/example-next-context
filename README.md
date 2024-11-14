@@ -1,8 +1,8 @@
-## Medium Article
+## How to Create a Next.js App with Context for State Management
 
 This is a simple project to demonstrate how to create a Next.js app with context for state management.
 
-Link to the article: [How to Create a Next.js App with Context for State Management](https://medium.com/@julianopacheco/how-to-create-a-next-js-app-with-context-for-state-management-7b3e7e4f3b3d)
+[Link to the article](https://medium.com/@julianopacheco/how-to-create-a-next-js-app-with-context-for-state-management-7b3e7e4f3b3d)
 
 ## Getting Started
 
